@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(144, 255, 240, 0.089);
+    color: rgb(4, 85, 11);
+}
+ img{
+    width:45%;
+    display:block;
+    margin:auto;
+ }
+
+ h1{
+    font-family: Verdana;
+    text-align: center;
+ }
